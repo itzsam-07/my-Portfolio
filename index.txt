@@ -1,0 +1,10 @@
+devfolio
+
+make strong foundation, core java(J2SE)
+OOP's concepts, Exception Handling, Collection Framework
+dsa    fang
+web services & development(J2EE)-JDBC, Servlet, JSP, MySQL,HTML,XMLCSS,Javascript
+Spring -> Spring Boot & Hibernate
+start sitting in exams and interviews   
+intership if possible
+maintain LeetCode / GFG profile
